@@ -138,7 +138,7 @@ fun_fact: “Great systems are built to work silently, recover gracefully, and s
 ### ✨ Let's Build, Automate & Learn Together!
 
 <a href="https://www.linkedin.com/in/papasanivenkatakrishnareddy/">
-  <img src="https://img.shields.io/badge/Open_to_Entry_level_Job_Oppurtunities-DevOps_%7C_CLOUD_%7C_CI/CD_%7C_Automation?style=for-the-badge&logo=handshake&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-DevOps_%7C_SRE_%7C_Cloud-success?style=for-the-badge&logo=handshake&logoColor=white"/>
 </a>
 
 <br/><br/>
