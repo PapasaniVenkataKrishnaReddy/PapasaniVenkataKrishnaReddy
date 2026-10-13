@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/venkatakrishnareddy-devops/VenkataKrishnaReddy/blob/main/banner.png" alt="Banner" width="900"/>
+  <img src="https://github.com/PapasaniVenkataKrishnaReddy/PapasaniVenkataKrishnaReddy/blob/main/banner.png" alt="Banner" width="900"/>
 </div>
 
 <h1 align="center">
@@ -16,12 +16,12 @@ Aspiring DevOps Engineer • AWS • Cloud Automation
 
 <p align="center">
   <a href="https://www.linkedin.com/in/papasanivenkatakrishnareddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:venkatakrishnareddy450@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:PapasaniVenkataKrishnaReddy450@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VenkataKrishnaReddy-DevOps&label=Profile+Views&color=2196F3&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/VenkataKrishnaReddy-DevOps?label=Followers&style=for-the-badge&color=2196F3" />
+  <img src="https://komarev.com/ghpvc/?username=PapasaniVenkataKrishnaReddy&label=Profile+Views&color=2196F3&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/PapasaniVenkataKrishnaReddy?label=Followers&style=for-the-badge&color=2196F3" />
 </p>
 
 ---
@@ -108,12 +108,12 @@ fun_fact: “Great systems are built to work silently, recover gracefully, and s
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenkataKrishnaReddy-DevOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataKrishnaReddy-DevOps&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PapasaniVenkataKrishnaReddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PapasaniVenkataKrishnaReddy&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataKrishnaReddy-DevOps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapasaniVenkataKrishnaReddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF" />
 </div>
 
 
