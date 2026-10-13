@@ -42,7 +42,7 @@ currently_learning:
   - Advanced Kubernetes (CKA prep)
   - Exploring Monitoring & Observability
   - Site Reliability Engineering
-ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps", "Ansible","CI/CD"]
+ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps", "Ansible","CI/CD", "Python", "Docker"]
 fun_fact: “Great systems are built to work silently, recover gracefully, and scale effortlessly.”
 ```
 
