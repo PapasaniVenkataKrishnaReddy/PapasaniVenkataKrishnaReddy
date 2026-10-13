@@ -119,14 +119,6 @@ fun_fact: “Great systems are built to work silently, recover gracefully, and s
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/VenkataKrishnaReddy-DevOps/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 
 ## 💡 DevOps Philosophy
 
