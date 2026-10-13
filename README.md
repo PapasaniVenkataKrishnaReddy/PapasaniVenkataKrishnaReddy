@@ -11,7 +11,7 @@ Aspiring DevOps Engineer • AWS • Cloud Automation
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=Building+Resilient+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+with+Terraform+%E2%9A%99%EF%B8%8F;Orchestrating+Containers+with+Kubernetes+%F0%9F%9A%A2;Engineering+Reliable+Systems+at+Scale+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EE0000&center=true&vCenter=true&width=700&lines=Building+Resilient+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+with+Terraform+%E2%9A%99%EF%B8%8F;Orchestrating+Containers+with+Kubernetes+%F0%9F%9A%A2;Engineering+Reliable+Systems+at+Scale+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 <p align="center">
